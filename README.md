@@ -1,3 +1,3 @@
 # D.OS
-DOS source code for Microsoft Google BlackTurr
+DOS source code for Microsoft, Google and BlackTure
 Bot Race
